@@ -61,7 +61,7 @@ Contributions are welcome! Feel free to open issues and pull requests to improve
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/hospital-api-project.git
+   git clone https://github.com/KAZIALEENA/HOSPITALAPI.git
 
 2. Navigate to the project directory:
 

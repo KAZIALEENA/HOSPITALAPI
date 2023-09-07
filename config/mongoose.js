@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 
 // Connect to the MongoDB database
-mongoose.connect('mongodb://127.0.0.1:27017/hospitalapi', {
+mongoose.connect('mongodb+srv://admin:admin123@cluster0.8olx8vv.mongodb.net/hospitalapi', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   serverSelectionTimeoutMS: 30000
